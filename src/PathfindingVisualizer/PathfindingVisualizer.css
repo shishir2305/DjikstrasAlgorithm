@@ -1,3 +1,20 @@
 .grid {
   margin: 100px 0 0;
 }
+.styled-button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.styled-button:hover {
+  background-color: #2980b9;
+}
+
+.styled-button:active {
+  background-color: #21618c;
+}
